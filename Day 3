@@ -1,0 +1,19 @@
+Learnt about 
+
+compiler 
+intrepreter
+java jdk,jre,jvm,jit
+platform independence
+machine code 
+byte code
+source code
+
+JDK = JRE + Development tools
+JRE = JVM + Library classes
+JIT = Just in Time
+
+JDK - Provides envt to develop andd run java programs
+it has - dev tools,JRE,compiler-javac,aechiver-jar,docs generator-javadoc,intreprete/loader
+
+
+JRE - Installation package that provide envt to run ony the program
